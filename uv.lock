@@ -26,7 +26,7 @@ mypy-boto3-textract==1.37.0
     # via
     #   -r requirements.txt
     #   boto3-stubs
-ocr-lista-escolar @ file:///C:/Users/rafae/Projetos/Analise%20avan%C3%A7ada%20de%20imagens-Rafael%20Dias
+ocr-lista-escolar @ file:///C:/Users/rafae/Projetos/transcrevendo-uma-imagem-em-texto-com-aws-textract
     # via -r requirements.txt
 python-dateutil==2.9.0.post0
     # via

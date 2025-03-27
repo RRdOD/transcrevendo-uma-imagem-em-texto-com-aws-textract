@@ -1,0 +1,14 @@
+boto3==1.37.19
+boto3-stubs==1.37.19
+botocore==1.37.19
+botocore-stubs==1.37.19
+jmespath==1.0.1
+mypy-boto3-textract==1.37.0
+ocr-lista-escolar @ file:///C:/Users/rafae/Projetos/Analise%20avan%C3%A7ada%20de%20imagens-Rafael%20Dias
+python-dateutil==2.9.0.post0
+s3transfer==0.11.4
+six==1.17.0
+types-awscrt==0.24.2
+types-s3transfer==0.11.4
+urllib3==2.3.0
+uv==0.6.9

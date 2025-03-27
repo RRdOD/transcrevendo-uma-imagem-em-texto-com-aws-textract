@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ocr-lista-escolar
+Version: 0.1.0
+Summary: Extração de texto de imagens usando Textract
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: boto3
+Requires-Dist: boto3-stubs[textract]

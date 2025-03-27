@@ -1,0 +1,14 @@
+[project]
+name = "ocr-lista-escolar"
+version = "0.1.0"
+description = "Extração de texto de imagens usando Textract"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "boto3",
+    "boto3-stubs[textract]"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

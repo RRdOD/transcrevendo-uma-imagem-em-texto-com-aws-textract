@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+ocr_lista_escolar.egg-info/PKG-INFO
+ocr_lista_escolar.egg-info/SOURCES.txt
+ocr_lista_escolar.egg-info/dependency_links.txt
+ocr_lista_escolar.egg-info/requires.txt
+ocr_lista_escolar.egg-info/top_level.txt
